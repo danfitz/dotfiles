@@ -1,0 +1,16 @@
+rofi
+vim
+ranger
+terminator
+git
+compton
+bluez
+bluez-utils
+xdotool
+ntfs-3g
+pulseaudio
+xbacklight
+alsa-utils
+feh
+evince
+fonts-font-awesome

@@ -1,0 +1,1 @@
+https://askubuntu.com/questions/322624/how-do-i-convert-a-x86-rpm-to-a-x86-deb-within-a-x64-system
