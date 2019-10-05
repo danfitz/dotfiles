@@ -3,7 +3,7 @@ sudo apt-get install all the packages in requirements.txt
 
 # I3WM
 Copy config file to ~/.config/i3/<place file here>
-Copy candle.jpg in DE folder to ~/.wallpaper/<place image here>
+Copy BG.jpg to ~/.wallpaper/<place image here>
 
 # TERMINATOR
 Copy config file to ~/.config/terminator/<place file here>

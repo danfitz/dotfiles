@@ -5,7 +5,6 @@ terminator
 git
 compton
 bluez
-bluez-utils
 xdotool
 ntfs-3g
 pulseaudio
