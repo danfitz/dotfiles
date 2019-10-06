@@ -202,10 +202,9 @@ bindsym XF86MonBrightnessDown exec xbacklight -dec 20 # decrease screen brightne
 
 # Startup applications
 exec i3-sensible-terminal
-# exec megasync
+exec dropbox start
 exec java -jar ~/Tools/master*
 exec ~/Tools/battest.sh
-exec solaar
 
 # Firefox hotkey
 bindsym $mod+b exec firefox
