@@ -21,7 +21,7 @@ Copy xorg.conf to /etc/X11/<place file here> to get brightness buttons to work
 Copy bashrc as a hidden folder (.bashrc) to ~/<place file here> to ls files when using cd 
 
 # BATTERY NOTIFICATION
-Copy battest.sh to /home/<user>/Tools/<place file here> to receive notifications when battery runs low
+Copy battest.sh to /home/<user>/Tools/<place file here> to receive notifications when battery runs low. Make sure to run chmod +x battest.sh to make it executable!
 
 # FONTS
 Font: Anonymous Pro
