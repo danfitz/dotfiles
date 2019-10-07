@@ -13,3 +13,4 @@ alsa-utils
 feh
 evince
 fonts-font-awesome
+default-jre
